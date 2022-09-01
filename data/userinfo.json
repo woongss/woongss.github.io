@@ -1,24 +1,7 @@
-[
-  {
-    "name": "김원중",
-    "id": "wjkim",
-    "pw": "1111",
-    "company": "pasoft",
-    "role": "CEO"
-  },
-  {
+ {
     "name": "정웅기",
     "id": "wkjung",
     "pw": "1111",
     "company": "pasoft",
     "role": "developer"
-  },
-
-  {
-    "name": "서경빈",
-    "id": "kbseo",
-    "pw": "1111",
-    "company": "pasoft",
-    "role": "developer"
-  }
-]
+ }
